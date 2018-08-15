@@ -1,6 +1,6 @@
 # Catalog-Movie
 
-This is example code to implement Models-Views-Presenters pattern. THis project's for submission on dicoding's academy MADE. 
+This is example code to implement Models-Views-Presenters pattern. This project's for submission on dicoding's academy MADE. 
 link https://www.dicoding.com/academies/14
 
 Movie Catalog 1st Submission
